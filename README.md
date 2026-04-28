@@ -4,7 +4,7 @@
 
 I am a self-taught engineer who made the intentional decision to step away from the traditional university path to focus entirely on what matters most: **shipping real products and building robust architecture**. 
 
-I thrive in fast-paced, high-volume environments (honed by my day-to-day experience managing operations and mentoring as an M3 Mentor). I bring that same grounded, collaborative, and pragmatic approach to my code. My development philosophy prioritizes production-grade, industry-standard best practices over quick fixes or hacky workarounds.
+I thrive in fast-paced, high-volume environments (honed by my day-to-day experience managing operations and mentoring as an M3 Mentee). I bring that same grounded, collaborative, and pragmatic approach to my code. My development philosophy prioritizes production-grade, industry-standard best practices over quick fixes or hacky workarounds.
 
 ### 💻 Engineering Philosophy & Stack
 I specialize in full-stack development using the **MERN stack**, emphasizing modular architecture and scalable infrastructure. 
