@@ -39,6 +39,3 @@ I specialize in full-stack development using the **MERN stack**, emphasizing mod
 
 ### 📫 Let's Connect
 I'm always building, iterating, and exploring new ways to optimize web infrastructure. 
-
-* **Portfolio:** [Link to QC Failed / Portfolio]
-* **LinkedIn:** [Link to your LinkedIn]
